@@ -1897,13 +1897,6 @@ test_cases:
     patch:
     patch_minor:
 
-  - user_agent_string: 'Parking Mania Free/1.9.5.0 CFNetwork/548.0.4 Darwin/11.0.0'
-    family: 'iOS'
-    major: '5'
-    minor: '0'
-    patch: '1'
-    patch_minor:
-
   - user_agent_string: 'JyukenSapuriApp/1.9.0 CFNetwork/609 Darwin/13.0.0'
     family: 'iOS'
     major: '6'

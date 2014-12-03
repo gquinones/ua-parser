@@ -5,7 +5,7 @@ ua-parser [![Build Status](https://secure.travis-ci.org/tobie/ua-parser.png?bran
 
 The crux of the original parser--the data collected by [Steve Souders][4] over the years--has been extracted into a separate [YAML file][5] so as to be reusable _as is_ by implementations in other programming languages.
 
-`ua-parser` is just a small wrapper around this data.
+`ua-parser` is just a small wrapper around this data, along with ongoing improvements to the definitions.
 
 Maintainers
 -----------
@@ -22,10 +22,11 @@ Maintainers
 * Python: [Lindsey Simon](https://github.com/elsigh) ([@elsigh](https://twitter.com/elsigh))
 * `regexes.yaml`: Lindsey Simon & Tobie Langel
 
-irc channel
------------
+Communication channels
+-----------------------
 
-[#ua-parser on freenode](irc://chat.freenode.net#ua-parse).
+* irc (#ua-parser on freenode) <irc://chat.freenode.net#ua-parser>
+* [mailing list](https://groups.google.com/forum/#!forum/ua-parser)
 
 Contributing Changes to regexes.yaml
 ------------------------------------
